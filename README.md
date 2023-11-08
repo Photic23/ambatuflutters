@@ -3,8 +3,10 @@ NPM : 2206082335
 Kelas : E
 
 
+
 Tugas 7
-1.
+
+1. 
 Stateless Widget :
     - tidak memiliki state
     - tidak dapat merubah diri sendiri melalui aksi atau event dari internal
@@ -13,13 +15,15 @@ Stateful Widget:
     - memiliki state
     - dapat merubah diri sendiri secara dinamis
     - immutable, tapi ada state class pendamping yang merepresentasikan state dirinya
+
 2. 
 - MyApp : digunakan untuk membuat root dari aplikasi dan material dari aplikasi (parent dari homepage)
 - MyHomePage : digunakan untuk menampilkan basis atau dasar dari halaman home, menjadi kontainer terluar
 - ShopCard : digunakan untuk menampilkan card berisi item dengan warna kuning, dapat menampilkan snackbar jika diklik
 - ShopCard2 : digunakan untuk menampilkan card berisi item dengan warna Merah, dapat menampilkan snackbar jika diklik
 - ShopCard3 : digunakan untuk menampilkan card berisi item dengan warna Hijau, dapat menampilkan snackbar jika diklik
-3.
+
+3
 - Saya membuat app flutter ambatuflutters
 - saya memindahkan widget MyHomePage dari main.dart ke file baru bernama menu.dart
 - saya mengimport package material ke menu.dart
